@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/thekhaleed/IPTracker))
-- Live Site URL: (https://apitracerr.netlify.app)
+- Live Site URL: (https://ipatrackerr.netlify.app/)
 
 ### Built with
 
