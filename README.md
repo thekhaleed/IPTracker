@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://apitracerr.netlify.app)
+- Solution URL: (https://github.com/thekhaleed/IPTracker))
+- Live Site URL: (https://apitracerr.netlify.app)
 
 ### Built with
 
@@ -57,6 +57,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://thekhaleed.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/thekhalyd)
-- Twitter - [@yourusername](https://www.twitter.com/thekhalyd)
+- Website - (https://thekhaleed.netlify.app)
+- Frontend Mentor -(https://www.frontendmentor.io/profile/thekhalyd)
+- Twitter - (https://www.twitter.com/thekhalyd)
